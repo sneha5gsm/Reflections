@@ -11,3 +11,6 @@ git log gives the list of commits starting from the latest
 git diff compares two commits and gives the differences
 How might using version control make you more confident to make changes that could break something?
 previous versions without bugs are still saved
+
+
+added to commit
