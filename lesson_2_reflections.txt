@@ -11,4 +11,6 @@ if you need to introduce a new experimental feature just to checkout how it woul
 branches would help in doing it 
 we can discontinue on that branch and still have the main branch for further commits
 How do the diagrams help you visualize the branch structure?
-they tell you what all developments have taken place in other branches    
+they tell you what all developments have taken place in other branches 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result of merging two branches is that the code now contains both the changes.We represent the diagram like that so that we kmow which branches we have merged    
