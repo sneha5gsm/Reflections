@@ -5,4 +5,6 @@ so that you pull only the branches which you want since may other people also wo
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 forks help cloning of repositories in github on github
 clones help cloning of repositories on local computer and cloning of repositories fomgithub onto local computers
-branches are added to a particular repository 
+branches are added to a particular repository
+What is the benefit of having a copy of the last known state of the remote stored locally?
+so that we know if any of the commits we have done have been pushed or not  
