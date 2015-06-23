@@ -10,4 +10,7 @@ What is the benefit of having a copy of the last known state of the remote store
 so that we know if any of the commits we have done have been pushed or not 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 by emails or pendrives
-it would be harder 
+it would be harder
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when you are sure of the change and if you want suggestions regarding it
+it helps reducing bugs and confusions 
