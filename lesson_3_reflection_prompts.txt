@@ -7,4 +7,7 @@ forks help cloning of repositories in github on github
 clones help cloning of repositories on local computer and cloning of repositories fomgithub onto local computers
 branches are added to a particular repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
-so that we know if any of the commits we have done have been pushed or not  
+so that we know if any of the commits we have done have been pushed or not 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+by emails or pendrives
+it would be harder 
